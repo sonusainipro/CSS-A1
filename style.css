@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+}
+h2 {
+   color: rgb(57, 232, 57); 
+   font-style: italic;
+}
+.span1 {
+    
+    text-decoration: line-through;
+}
+.span2 {
+    font-weight: 1000;
+    background-color: yellow;
+}
+.span3 {
+    background-color: yellow;
+}
+.li4 {
+    font-style: italic;
+    text-decoration: underline;
+}
+.unorderdList {
+    color: brown;
+    letter-spacing: 10px;
+}
+.p1 {
+    font-size: 18px;
+    color: brown;
+}
+.p2 {
+    font-size: 9px;
+    color: brown;
+}
+.p3 {
+    font-size: 16px;
+    font-style: italic;
+     color: brown;
+}
+a {
+    text-decoration: none;
+    color: brown;
+    
+}
